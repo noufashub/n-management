@@ -1,0 +1,25 @@
+Country_crop,Country,Crop,Crop2,area (Million ha),total grain (MT million),Total MT (tonne) Nitrogen ,Saving source,Saved Amount (MT N),Saved Amount (%)
+Ethiopia-Maize,Ethiopia,Maize,Maize ,2.36,10.02,"15,835,212",High-N Fertilizer,21928,0.23
+Ethiopia-Wheat,Ethiopia,Wheat,Wheat ,1.83,5.48,"10,902,631",High-N Fertilizer,18190,0.26
+Malawi-Maize,Malawi,Maize, Maize,1.73,3.26,"39,120",High-N Fertilizer,15259,0.22
+India-Maize,India,Maize,Maize,9.87,30.16,"47,652,800",High-N Fertilizer,43179,0.05
+India-Wheat,India,Wheat,Wheat,31.36,107.59,"214,104,100",High-N Fertilizer,93155,0.03
+India-Rice,India,Rice,Rice,45,178.31,"221,098,200",High-N Fertilizer,47378,0.01
+Ethiopia-Maize,Ethiopia,Maize,Maize ,2.36,10.02,"15,835,212",Legume,11577,0.11
+Ethiopia-Wheat,Ethiopia,Wheat,Wheat ,1.83,5.48,"10,902,631",Legume,9333,0.14
+Malawi-Maize,Malawi,Maize, Maize,1.73,3.26,"39,120",Legume,8823,0.11
+India-Maize,India,Maize,Maize,9.87,30.16,"47,652,800",Legume,50337,0.03
+India-Wheat,India,Wheat,Wheat,31.36,107.59,"214,104,100",Legume,159936,0.02
+India-Rice,India,Rice,Rice,45,178.31,"221,098,200",Legume,229500,0.02
+Ethiopia-Maize,Ethiopia,Maize,Maize ,2.36,10.02,"15,835,212",Manure,20771,0.09
+Ethiopia-Wheat,Ethiopia,Wheat,Wheat ,1.83,5.48,"10,902,631",Manure,16745,0.12
+Malawi-Maize,Malawi,Maize, Maize,1.73,3.26,"39,120",Manure,6488,0.09
+India-Maize,India,Maize,Maize,9.87,30.16,"47,652,800",Manure,37013,0.04
+India-Wheat,India,Wheat,Wheat,31.36,107.59,"214,104,100",Manure,117600,0.03
+India-Rice,India,Rice,Rice,45,178.31,"221,098,200",Manure,168750,0.03
+Ethiopia-Maize,Ethiopia,Maize,Maize ,2.36,10.02,"15,835,212",Fertilizer Advisory,1680,0.02
+Ethiopia-Wheat,Ethiopia,Wheat,Wheat ,1.83,5.48,"10,902,631",Fertilizer Advisory,988,0.02
+Malawi-Maize,Malawi,Maize, Maize,1.73,3.26,"39,120",Fertilizer Advisory,1163,0.02
+India-Maize,India,Maize,Maize,9.87,30.16,"47,652,800",Fertilizer Advisory,2235,0
+India-Wheat,India,Wheat,Wheat,31.36,107.59,"214,104,100",Fertilizer Advisory,24984,0.01
+India-Rice,India,Rice,Rice,45,178.31,"221,098,200",Fertilizer Advisory,36259,0.01
