@@ -23,14 +23,14 @@ nClassWheat <- raster("rasterstack1981wheat.tif",band = 33)
 nClassMaize <- raster("rasterstack1981maize.tif",band = 33)
 
 worldmap <- ne_countries(scale = 110, returnclass = "sf")
-worldMap <- read_sf("Shapefiles/gadm36_0.shp")
+#worldMap <- read_sf("Shapefiles/gadm36_0.shp")
 
 
 #countries > India, Ethiopia and Malawi
 
 India <- read_sf("Shapefiles/India_Boundary.shp")
-Ethiopia <- subset(worldMap, NAME_0 == "Ethiopia")
-Malawi <- subset(worldMap, NAME_0 == "Malawi")
+Ethiopia <- read_sf("Shapefiles/Ethiopia.shp")
+Malawi <- read_sf("Shapefiles/Malawi.shp")
 
 
 #Plots
